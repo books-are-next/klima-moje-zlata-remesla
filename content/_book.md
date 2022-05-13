@@ -1,36 +1,37 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Moje zlatá řemesla
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Ivan Klíma
+  publisher: Městská knihovna v Praze
+  modified: '2021-03-17T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - moje_zlata_remesla_001.html
+  - moje_zlata_remesla_002.html
+  - moje_zlata_remesla_003.html
+  - moje_zlata_remesla_004.html
+  - moje_zlata_remesla_005.html
+  - moje_zlata_remesla_006.html
+  - moje_zlata_remesla_007.html
+  - moje_zlata_remesla_008.html
+  - moje_zlata_remesla_009.html
+  - moje_zlata_remesla_010.html
+  - moje_zlata_remesla_011.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
