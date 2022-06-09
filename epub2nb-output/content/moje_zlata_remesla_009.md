@@ -5,8 +5,6 @@ contentType: prose
 
 ## 1
 
-  
-
 Do ústavu jsem přišel až po deváté, dřív stejně pro mě k odnesení nic nemívali. Obvykle nic neměli ani po deváté, bylo léto a většina zaměstnanců odjela na dovolenou. Kromě toho na velkém počítači ve Strašnicích se něco porouchalo, takže nebyly ani archy od počítače, které programátoři, asi ne zcela v duchu českého jazyka, nazývají: sjetiny. Vystoupal jsem do třetího poschodí, výtah nepoužívám, nedůvěřuji mu, nevím, proč právě výtahy by se měly vymykat ze stavu všeobecné zvetšelosti, taky se mi protiví vozit se někam, kam se mohu dobře dostat po svých. V kanceláři sedávaly sekretářka a ekonomka, obě byly mladé a milé, každá jinak hezká, a obě si rády povídaly. Poštu, pokud nějaká byla, jsem míval připravenu na stole vedle dveří. Dneska jsem tu zastihl jenom ekonomku a můj stůl zel prázdnotou nebo přesněji: spočívala na něm jenom váza plná gladiol. Pozdravil jsem, ekonomka ke mně vzhlédla. „Ani jste dneska nemusel chodit,“ přivítala mě.
 
 „Vždyť já chodím rád, těším se, že vás uvidím!“
@@ -81,9 +79,9 @@ Na obrázku byla postel, na posteli ležela postava rozříznutá vejpůl, na pr
 
 Na nástěnce visela čerstvá noticka vystřižená z Lidové demokracie:
 
-ROZLUŠTĚNÁ ZÁHADA
+_ROZLUŠTĚNÁ ZÁHADA_
 
-Sijva: Fidžijská policie nedávno po téměř 65 letech vyšetřování zadržela již 82letého sňatkového podvodníka R. Tamu, na jehož kontě bylo podle policejní zprávy již 132 „zneuctěných žen a dívek“. Policie o nestárnoucím svůdci věděla již dlouho. Chyběly však důkazy, přesněji řečeno svedené ženy. Jak se zjistilo, všechny zahynuly v palmovém háji nedaleko Tamova obydlí. Další pozoruhodnou okolností však byl fakt, že všem spadl na hlavu kokos. Záhadu rozluštil až konstábl Ratilau, který pod slamníkem z palmových listů v Tamově klimatizovaném apartmá nalezl osobní počítač a velké množství programů. Tama měl totiž přesně spočítáno, kdy z té či oné palmy spadne ořech a na daná místa posílal své „manželky“. Zdroje blízké vyšetřování navíc důvěrně oznámily, že na Tamových počítačových programech se nikoli nezištně podílela jedna nejmenovaná japonská elektrotechnická firma.
+_Sijva: Fidžijská policie nedávno po téměř 65 letech vyšetřování zadržela již 82letého sňatkového podvodníka R. Tamu, na jehož kontě bylo podle policejní zprávy již 132 „zneuctěných žen a dívek“. Policie o nestárnoucím svůdci věděla již dlouho. Chyběly však důkazy, přesněji řečeno svedené ženy. Jak se zjistilo, všechny zahynuly v palmovém háji nedaleko Tamova obydlí. Další pozoruhodnou okolností však byl fakt, že všem spadl na hlavu kokos. Záhadu rozluštil až konstábl Ratilau, který pod slamníkem z palmových listů v Tamově klimatizovaném apartmá nalezl osobní počítač a velké množství programů. Tama měl totiž přesně spočítáno, kdy z té či oné palmy spadne ořech a na daná místa posílal své „manželky“. Zdroje blízké vyšetřování navíc důvěrně oznámily, že na Tamových počítačových programech se nikoli nezištně podílela jedna nejmenovaná japonská elektrotechnická firma._
 
 Kolem mě právě kráčel inženýr Bauer, který si všiml, jak žasnu, a vysvětlil mi, že tuhle zprávu zaslal do novin inženýr Vandas. Vsadil se, že není možno vymyslet o počítačích blbost tak velikou, aby jí laici neuvěřili. Sepsal tuhle sbírku nesmyslů, odeslal ji – a vyhrál.
 
@@ -105,13 +103,13 @@ Vyměnil jsem diskety, odeslal znovu svoji čtyřznakovou žádost počítači, 
 
 Napsal jsem:
 
-Vážený pane prezidente...
+_Vážený pane prezidente..._
 
 Ohlédl jsem se. Na široké, pečlivě oholené tváři inženýra Klímy se objevil spokojený úsměv. „Jen si pište, co chcete,“ řekl, „pak to zase smažeme.“ A posadil se ke svému stolu a začal si číst v nějakých počítačových výstupech.
 
 _... jste asi zvyklý_, pokračoval jsem v dopise, _že dostáváte buď žádosti anebo stížnosti_. Úvodní věta se mi nelíbila, dal jsem tedy počítači příkaz, aby ji vymazal, což provedl s rychlostí, která mě ještě stále udivovala. Napsal jsem:
 
-Vím, že jste velice zaměstnán, ale nechci se na vás obracet ani s nějakou žádostí, ani se stížností, rád bych Vám jenom vyjádřil svoji účast anebo spíše lítost, kterou ve mně vzbuzujete. Vzpomínám si na slavnostní akt, kdy jste skládal přísahu a byl jste zjevně pohnut k slzám. Už tehdy mě napadlo, jak krutě musíte být osamělý, když se ve Vaší blízkosti nenašel nikdo, kdo by Vás upozornil, že vaše dojetí není na místě. Vždyť doba, kdy jste přijímal své poslání, byla tak smutná a bezvýchodná, že na Vaše jméno musí jednou padnout daleko spíše hanba než sláva. Pokoušel jsem se také několikrát naslouchat Vašim projevům, neboť jsem byl zvědav, jaké poselství nám všem chcete sdělit. Jsem přece občan této země a navíc se rovněž snažím, i když to mám zakázáno, lidem něco sdělit. Naslouchal jsem Vám tedy a sdílel s Vámi tu hrůzu, zoufalství člověka, který vystoupí na trůn a hledí na neviditelné poddané, které smí, které má oslovit, a zároveň neví, co by jim řekl, protože nemá, co by jim sdělil.
+_Vím, že jste velice zaměstnán, ale nechci se na vás obracet ani s nějakou žádostí, ani se stížností, rád bych Vám jenom vyjádřil svoji účast anebo spíše lítost, kterou ve mně vzbuzujete. Vzpomínám si na slavnostní akt, kdy jste skládal přísahu a byl jste zjevně pohnut k slzám. Už tehdy mě napadlo, jak krutě musíte být osamělý, když se ve Vaší blízkosti nenašel nikdo, kdo by Vás upozornil, že vaše dojetí není na místě. Vždyť doba, kdy jste přijímal své poslání, byla tak smutná a bezvýchodná, že na Vaše jméno musí jednou padnout daleko spíše hanba než sláva. Pokoušel jsem se také několikrát naslouchat Vašim projevům, neboť jsem byl zvědav, jaké poselství nám všem chcete sdělit. Jsem přece občan této země a navíc se rovněž snažím, i když to mám zakázáno, lidem něco sdělit. Naslouchal jsem Vám tedy a sdílel s Vámi tu hrůzu, zoufalství člověka, který vystoupí na trůn a hledí na neviditelné poddané, které smí, které má oslovit, a zároveň neví, co by jim řekl, protože nemá, co by jim sdělil._
 
 Vzpomněl jsem si na květiny, které mi vadnou v tašce. Rychle jsem dal počítači pokyn, aby smazal text, za nějž by se mi od adresáta jen stěží dostalo pochvaly, a běžel jsem za inženýrem Vandasem. Našel jsem ho v hale, jak spolu s inženýrkou Kosinovou, která sice sama neměla děti, ale o to mateřštěji se chovala ke všem kolem sebe, krmí obě holčičky.
 
@@ -319,8 +317,6 @@ Doma jsem si našel průsečík jedenadevadesátého poledníku a padesáté š
 
 ## 2
 
-  
-
 Velký počítač ve Strašnicích už je opět v provozu. Přivezl jsem tam tři krabice s prázdnými páskami a mám vyzvednout pásky nahrané. Strašnický počítač je umístěn v podzemí mrakodrapu importní a exportní společnosti. V obrovském sklepení, kde hučí klimatizace a kde je přísně zakázáno kouřit či jakkoli znečišťovat ovzduší, září obrazovky a pobíhají muži a ženy v bílých pláštích. Před klávesnicí jednoho z terminálů poznávám vysokou hubenou postavu inženýra Bauera. Nevnímá mě, jeho zasněný pohled se vytřeštěně upírá k obrazovce, na níž se řadí do sloupců čísla. Inženýr Bauer v bílém plášti v tomto přísně sterilním ovzduší, které si vyžaduje počítač, k sobě skládá údaje o znečištění ovzduší nad našimi horstvy. Nahlédl jsem mu přes rameno. Aerosoly a oxid siřičitý v mikrogramech, olovo, kadmium, měď, zinek v nanogramech, já ta čísla stejně nedovedu posoudit a nevím, kdo je vlastně dovede posoudit, snad ty obrovské stroje to svedou, a pokud to nesvedou tyhle, vymyslí lidé stroje, které to jistě dokáží, jenže k tomu, abychom je vyrobili, nejspíš budeme muset vzduch znečistit ještě víc anebo ho znečistit něčím, o čem netušíme, co nám způsobí. Tak to jde v koloběhu, o němž všichni tvrdí, že by se měl přetnout a zastavit, ale který se přesto stále zrychluje.
 
 Pásky mám připraveny na stolečku hned vedle vchodu. Na vrchním kotouči je nalepena bílá páska, na ní napsáno propisovací tužkou: _Šumava_. Nacpal jsem zkázu Šumavy do své tašky a vyšel z podzemí. Ve vrátnici jsem se podepsal; okny skleněné haly jsem viděl, že venku spustil liják. Usedl jsem do měkounkého křesla a pozoroval ruch v hale. U stolku vedle mě seděli dva Arabi, kteří prudce gestikulovali a hlasitě vykřikovali jisti si, že jim nemůže nikdo rozumět.
@@ -465,9 +461,9 @@ Inženýr Klíma na mě kýval, abych šel za ním, a já tušil, že už se m�
 
 Posadil jsem se tedy k počítači, tentokráte jsem nezapomněl vyměnit diskety, a když jsem k tomu byl vyzván, začal jsem psát:
 
-Vážené shromáždění,
+_Vážené shromáždění,_
 
-využívám této výjimečné příležitosti oslovit zástupce všech národů, abych tu přednesl aspoň něco ze svých obav.
+_využívám této výjimečné příležitosti oslovit zástupce všech národů, abych tu přednesl aspoň něco ze svých obav._
 
 První věta by neměla existovat. V dobách, kdy jsem ještě pracoval v redakci literárního týdeníku, můj zkušený kolega mě poučoval: první odstavec článku, ať ho napíše kdokoliv, rovnou škrtej. Je vždycky zbytečný.
 
@@ -663,8 +659,6 @@ Když jsem se vrátil do práce, zbyla tam už jen osamělá inženýrka Kosinov
 
 ## 3
 
-  
-
 V kanceláři ve třetím poschodí byla jen hezká ekonomka. Četla si v Dikobrazu a radovala se nad tím, jak jinde panuje v hospodaření ještě větší nepořádek. „Dneska zase nic,“ přivítala mě, „ale máte se prý zastavit kolem deváté na Múzu, že tam přišly štítky. Asi dvacet balíků. Jestli se vám to ještě chce na poslední den tahat.“
 
 „Už se těším,“ řekl jsem, „tenhle týden jsem neměl vůbec nic na práci.“
@@ -727,9 +721,9 @@ Krabice se štítky jsem složil v hale. Ze své kóje se vynořil inženýr Ba
 
 Přelétl jsem sloupec číslic a znaků – docela dole počítač oznamoval:
 
-zivot nepravdepodobny v roce 2069
+_zivot nepravdepodobny v roce 2069_
 
-zivot zcela nemozny od roku 2084
+_zivot zcela nemozny od roku 2084_
 
 „Ještě devadesát sedm let,“ podivil se inženýr Klíma, který mi nahlížel přes rameno. „To mi bude rovných sto třicet. Ani bych si nikdy nepomyslel, čeho všeho se nedožiju.“
 
@@ -755,13 +749,13 @@ Holčičku chytili, šeptem jí domlouvali, nejspíš, aby byla statečná, a p
 
 Sedl jsem si k počítači. Měl bych nejspíš napsat několik slov na rozloučenou. Napadlo mě však jenom čtyřverší:
 
-Po sídlišti prchá
+_Po sídlišti prchá_
 
-zdivočelá sprcha,
+_zdivočelá sprcha,_
 
-už jsme jí však na stopě,
+_už jsme jí však na stopě,_
 
-zabráníme potopě.
+_zabráníme potopě._
 
 Pod dojmem právě ukončené prognózy inženýra Bauera jsem dal dohromady ještě jedno čtyřverší. Inženýr Klíma, ačkoliv to obvykle nedělával, si přečetl mé výplody. „To jste teď složil?“
 
@@ -801,13 +795,13 @@ Na chodbě dřevěného domku jsem zaklepal na známé dveře a ihned jsem vsto
 
 Podal jsem jí květinu. Měl bych k tomu ještě něco připsat. Třeba: Posílám vám úsměv a přeju vám… Anebo: děkuju za důvěru. Anebo jenom: Na shledanou! A podepsat se. Vytáhl jsem papír se svými čtyřveršími. Druhé znělo:
 
-V Tule se tulí tuleni,
+_V Tule se tulí tuleni,_
 
-v Brně zas brní brnění,
+_v Brně zas brní brnění,_
 
-po Hané honí se pohané,
+_po Hané honí se pohané,_
 
-prý konec světa už nastane.
+_prý konec světa už nastane._
 
 Podpisovat se nemělo smysl, stejně jsme spolu mluvili, aniž jsme se představili.
 
@@ -815,4 +809,4 @@ Složil jsem papír do malého čtverečku a podal ho skutečné paní Nataše.
 
 Vzala si ode mě papír a slíbila, že ho předá. Poděkoval jsem jí a pospíchal na autobus, abych dorazil včas a mohl na rozloučenou s hodnými programátory i se svým posílkařením začít s přípravou kuřete à la Rávalpindí.
 
-(1989)
+> (1989)

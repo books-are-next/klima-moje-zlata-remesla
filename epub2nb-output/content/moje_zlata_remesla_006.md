@@ -3,8 +3,6 @@ title: Pašerácká povídka
 contentType: prose
 ---
 
-  
-
 V telefonu se mi ozval povědomý hlas: „Tady Santa Claus. Máte odpoledne čas?“
 
 Odpoledne jsem mohl.
@@ -365,4 +363,4 @@ Odemkl jsem garáž a vytáhl koš z auta. Připadal mi nepřípadně těžký
 
 Měl jsem chuť nadzvednout prádlo a zjistit, co se pod ním skrývá, ale ovládl jsem nepatřičnou zvědavost. Koš jsem postavil v jídelně na stůl co nejopatrněji a odešel jsem si číst.
 
-(1985)
+> (1985)

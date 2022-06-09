@@ -5,8 +5,6 @@ contentType: prose
 
 ## 1\. Dům
 
-  
-
 Věděl jsem jenom jméno ulice a číslo domu, víc mi můj přítel geodet, který mi místo opatřil, říci nemohl, neboť v městečku sám nikdy nebyl. Dům určitě najdu, prý je hned u náměstí, přepych však čekat nesmím, zeměměřiči bývají šetrní, značnou část jejich příjmů tvoří nocležné, stravné, odlučné a podobné příplatky, kdyby je měli opravdu vydat za noclehy a stravu a měli být pět dní v týdnu odloučeni, práce by pro ně ztratila i tu poslední přitažlivost. Proto se snaží získat ubytování, které je laciné.
 
 Vezl jsem si tedy s sebou nejen pokrývku a polštář, ale i nádobí, umývadlo, ponorný vařič a také lampu opatřenou dvěma čelistmi, které umožňovaly na cokoliv ji přichytit.
@@ -86,8 +84,6 @@ Map máme pět – dohromady téměř dvě stě bodů, každý z nich musíme 
 Ačkoliv už začínalo září, slunce naplno žhnulo, a já sledoval střídavě na mapě a v krajině, jak se blížíme neviditelnému bodu číslo dvacet tři.
 
 ## 2\. Večer
-
-  
 
 Když jsme se večer vrátili do své rezidence, opláchl jsem se a převlékl, pak jsem připojil svoji lampu ke kabelu, jenž k nám vedl vypůjčený proud. Měl bych ještě umýt aspoň jedno z oken, ale byl jsem tak unavený, že jsem se k tomu neodhodlal.
 
@@ -169,8 +165,6 @@ Každý máme svůj zámek, jehož branou toužíme projít. Většinou, když j
 
 ## 3\. Kámen
 
-  
-
 Jámu pro kámen jsme kopali na pasece vedle lesní cesty. Od prvního úderu krumpáče zem vzdorovala, ztvrdlá hlína byla plná větších i menších oblázků a úlomků skály. Blížilo se poledne a povětří se zachvívalo ve slunečním žáru. Po hodinovém úsilí se nám podařilo vytvořit mělkou prohlubeň. Inženýr utěšoval sebe i mě, že jakmile pronikneme vrchní vrstvou zeminy protkané navíc kořeny stromů, půjde nám to snáze. Místo toho jsme narazili na skálu.
 
 Můj mladý šéf mě pochopitelně předčil silou, obratností i zkušeností. Vzal mi tedy rýč; pohyby, které napodobovaly údery pneumatické sbíječky, se pokusil po kouscích dobývat skálu. Ale obyčejný, zcela otupený rýč sbíječku nahradit nemohl.
@@ -225,20 +219,18 @@ Konečně inženýr téměř šeptem, jako by se bál, že i dechem může kám
 
 ## 4\. Dopis
 
-Pane řediteli K.,
+_Pane řediteli K.,_
 
-tím, že jste zpochybnil charakter mé dosavadní činnosti, kterou jsem já a snad i někteří jiní lidé považovali za uměleckou, nepochybně jste se zasloužil o to, že jsem se aspoň na čas stal zeměměřičským pomocníkem. Považuji za správné vás o své nové činnosti zpravit, mimo jiné i proto, aby vás nevědomost nepřipravila o příležitost moji současnou činnost opět zpochybnit.
+_tím, že jste zpochybnil charakter mé dosavadní činnosti, kterou jsem já a snad i někteří jiní lidé považovali za uměleckou, nepochybně jste se zasloužil o to, že jsem se aspoň na čas stal zeměměřičským pomocníkem. Považuji za správné vás o své nové činnosti zpravit, mimo jiné i proto, aby vás nevědomost nepřipravila o příležitost moji současnou činnost opět zpochybnit._
 
-Na důkaz své činnosti jako zeměměřičského pomocníka uvádím: Během měsíce září jsem očistil a natřel sedmdesát devět tyčí, vykopal přibližně osm krychlových metrů zeminy, zasadil do země třicet betonových patek a pět kamenů. Do různých zdí, mezi nimiž převládaly zdi kostelní a hřbitovní, jsem vysekal otvory pro pět svorníků. Napomáhal jsem i při větším počtu měření a přidružených prací. Jsem si vědom, že teprve schválením úřadu, tedy těch, kteří byli povoláni na jejich čelo (používám úmyslně rusismu ve Vašich kruzích oblíbeného), se stávají skutečnosti skutečnostmi a činnosti činnostmi a nepropadám přeludným vidinám o tom, co jsem na zeměměřičském poli vykonal. Je naopak možné, že žiju v naprostém omylu o sobě. Opravdu jsem zvědav na Vaše vývody.
+_Na důkaz své činnosti jako zeměměřičského pomocníka uvádím: Během měsíce září jsem očistil a natřel sedmdesát devět tyčí, vykopal přibližně osm krychlových metrů zeminy, zasadil do země třicet betonových patek a pět kamenů. Do různých zdí, mezi nimiž převládaly zdi kostelní a hřbitovní, jsem vysekal otvory pro pět svorníků. Napomáhal jsem i při větším počtu měření a přidružených prací. Jsem si vědom, že teprve schválením úřadu, tedy těch, kteří byli povoláni na jejich čelo (používám úmyslně rusismu ve Vašich kruzích oblíbeného), se stávají skutečnosti skutečnostmi a činnosti činnostmi a nepropadám přeludným vidinám o tom, co jsem na zeměměřičském poli vykonal. Je naopak možné, že žiju v naprostém omylu o sobě. Opravdu jsem zvědav na Vaše vývody._
 
-_S pozdravem  
-zeměměřičský pomocník K._
+> _S pozdravem  
+> zeměměřičský pomocník K._
 
-V Městci 2. října
+_V Městci 2. října_
 
 ## 5\. Doma
-
-  
 
 V pátek jsme se vracívali už o polednách. Z auta jsme vynosili všechny nástroje, já pak vyskočil na korbu, vymetl smetáčkem všechny pozůstatky naší celotýdenní činnosti, takže auto teď vypadalo docela spořádaně, a utíkal jsem se převléknout, abych ještě stihl odpolední vlak.
 
@@ -260,7 +252,7 @@ Jedna z řeckých bájí vypráví o obru Antaiovi, synovi Poseidona a Gáie�
 
 Když jsou cihly očištěny, vezmu si hromádku dopisů, které mi během týdne přišly, a čtu si v nich. Má překladatelka mi oznamuje ze své švédské domoviny:
 
-Měli jsme překrásné horké léto a po několika mizerných létech se můžeme radovat z obrovské úrody ovoce, zeleniny a hub. Ale jak nás to má těšit, když radioaktivita stále vězí v zasažených částech švédské půdy, a to právě v těch nejúrodnějších. Lidé však nedbají výstrah, hrozím se následků jejich lhostejnosti. Máme dobrou kontrolu vzduchu, vody a země, právě proto víme, že katastrofa je faktem. Tisíce tuleňů pošlo důsledkem virusu, který se dosud nepodařilo identifikovat. I vodní ptactvo je zasaženo, neví se, zda to způsobil stejný virus jako u tuleňů. Také ryb stále ubývá. Ještě nikdy se nestalo, že by rybárny byly zavřené pro nedostatek ryb, ale právě tento důvod jsme mohli letos číst na tabulkách před zavřenými obchody. Lovci divoké zvěře na severu utrpěli šok. Zjistilo se, že srnci obsahují víc než 45 000 bec­querelů, a to už přece uplynulo tolik času od Černobylu. Každý den nová výstraha anebo nová fakta o katastrofě. Zjistilo se například, že do krémové zmrzliny, aby vydržela skladování, přidávají 30 druhů chemikálií přímo škodlivých zdraví, zvláště dětskému. Červená paprika importovaná ze Španělska je preparovaná jedy, kůra tvrdá jako u pomerančů. Okamžitě jsem ji přestala kupovat a vidím, že její cena velmi klesá. Další poplach: tampóny pro ženy obsahují tak vysoké procento dioxinu, že jsou karcinogenní. Největší nebezpečí nám však hrozí z freonu, zprávy o narušené ozónové zóně zejména kolem pólů jsou přímo děsivé. Nic se také nedělá pro snížení automobilismu. AIDS se šíří jako lavina, počet přenašečů viru se odhaduje na desetitisíce. Toto jaro jsme zde měli výtečnou výstavu o ničení přírody a památek, které jsou skoro všechny nenapravitelně zasaženy. Až pojedu do Prahy, přivezu ti katalog…
+_Měli jsme překrásné horké léto a po několika mizerných létech se můžeme radovat z obrovské úrody ovoce, zeleniny a hub. Ale jak nás to má těšit, když radioaktivita stále vězí v zasažených částech švédské půdy, a to právě v těch nejúrodnějších. Lidé však nedbají výstrah, hrozím se následků jejich lhostejnosti. Máme dobrou kontrolu vzduchu, vody a země, právě proto víme, že katastrofa je faktem. Tisíce tuleňů pošlo důsledkem virusu, který se dosud nepodařilo identifikovat. I vodní ptactvo je zasaženo, neví se, zda to způsobil stejný virus jako u tuleňů. Také ryb stále ubývá. Ještě nikdy se nestalo, že by rybárny byly zavřené pro nedostatek ryb, ale právě tento důvod jsme mohli letos číst na tabulkách před zavřenými obchody. Lovci divoké zvěře na severu utrpěli šok. Zjistilo se, že srnci obsahují víc než 45 000 bec­querelů, a to už přece uplynulo tolik času od Černobylu. Každý den nová výstraha anebo nová fakta o katastrofě. Zjistilo se například, že do krémové zmrzliny, aby vydržela skladování, přidávají 30 druhů chemikálií přímo škodlivých zdraví, zvláště dětskému. Červená paprika importovaná ze Španělska je preparovaná jedy, kůra tvrdá jako u pomerančů. Okamžitě jsem ji přestala kupovat a vidím, že její cena velmi klesá. Další poplach: tampóny pro ženy obsahují tak vysoké procento dioxinu, že jsou karcinogenní. Největší nebezpečí nám však hrozí z freonu, zprávy o narušené ozónové zóně zejména kolem pólů jsou přímo děsivé. Nic se také nedělá pro snížení automobilismu. AIDS se šíří jako lavina, počet přenašečů viru se odhaduje na desetitisíce. Toto jaro jsme zde měli výtečnou výstavu o ničení přírody a památek, které jsou skoro všechny nenapravitelně zasaženy. Až pojedu do Prahy, přivezu ti katalog…_
 
 Večer jsme si oblékli sváteční šaty a šli se ženou na recepci, kterou pořádají na počest amerického spisovatele zástupci jeho země. Jsem zván ještě jako spisovatel, nikoliv jako zeměměřičský pomocník. Mé nové povolání je příliš čerstvé a krátkodobé, než aby bylo něčím víc než osvěžujícím tématem ke konverzaci. Jak bych na tom byl, kdyby mě jako tolik jiných do náhradního povolání zahnali už téměř před dvaceti, anebo dokonce před čtyřiceti lety? Kdo si ještě vzpomene, že ti dřinou a jednotvárností umoření topiči, umývači výkladů, barabové či skladníci měli kdysi jiná povolání, studovali Kanta, svatého Augustina, anebo Paretovu teorii elit, přednášeli studentům anebo promlouvali z rozhlasu k lidem?
 
@@ -283,8 +275,6 @@ Nacházíme se ve vzduchu. Zdviženi vysoko nad hlavou neviditelného heroa, jeh
 Psi se plavnými skoky zase vzdalují a já se ještě jednou sehnu k zemi, seberu hromádku hlíny, promnu ji mezi prsty a cítím úlevu.
 
 ## 6\. Papírnice
-
-  
 
 Když jsem se jako každé pondělí dopoledne vrátil do Městce, našel jsem dveře naší rezidence zamčeny a ve škvíře mezi veřejemi lísteček od svého šéfa: zapomněl doma papíry od auta a vrací se tedy pro ně. Omlouvá se mi, přijede ještě během odpoledne. Klíče mi nechal v papírnictví.
 
@@ -358,8 +348,6 @@ Vzdychla, ušklíbla se, pak řekla. „I kdyby to bylo možný dostat se tam 
 
 ## 7\. Půda
 
-  
-
 Výjimečně jsme se vrátili ještě za světla; inženýr musel projednat škody, které podnik utrpěl, když v polích vyorali několik našich kamenů. Než jsem vstoupil do své místnosti, všiml jsem si, že dveře na půdu jsou pootevřeny. Neodolal jsem a vylezl po vrzavých, zaprášených schodech. Půda byla rozlehlá a plná krámů. Zastavil jsem se a naslouchal, ale nic se tu nepohnulo, jen několik much s bzučením poletovalo pod vikýřem. Trámy byly mohutné a věkovité, zato tašky se zdály téměř nové. Mezi vlaštovčími hnízdy, přehozeny po trámech, tlely tu pytle a staré ženské šaty. Ve skříních beze dveří se hromadila kupa plesnivých bot, mezi slámou a hromadou starých tašek jsem nalezl rezaté roury a několik prázdných krabic a bedýnek od ovoce.
 
 Nic cenného tu jistě nezůstalo, ale já nehledal zlato ani cínové svícny, vždycky mě nejvíc přitahoval potištěný papír – a opravdu jsem v jedné z krabic objevil sto let starou „Čítanku pro školy rolnické a zimní hospodářské“. Vtom za mnou cosi zapraštělo, a když jsem se ulekaně ohlédl, uviděl jsem hlavu paní Pokorné, jak se vysouvá nad podlahou půdy.
@@ -371,8 +359,6 @@ Pozdravil jsem a zatvářil se provinile, vědom si, že jsem byl přistižen v
 Jak jsem se jí díval do očí, náhle jsem rozeznal, navzdory té ukrutné vzdálenosti v čase, řadu husarů ve sněhobílých pláštích, měsíční svit je stříbřil. Až sem na půdu dolehlo zlověstné bubnování. A mezi bubeníky samojediný voják se vezl na vozíku s harfou, tu ovšem nemohl nikdo slyšet v tom bubnování, i kdyby vojáček na ni drnkal sebehlasitěji.
 
 ## 8\. Inženýr
-
-  
 
 Dorazili jsme naším terénním vozem rumunské výroby na vrch před Chrudimí a zastavili kousek od nové vodárenské věže. Také silnička sem vedla nová, panelová. Inženýr zneklidněl. Bod, který jsme jeli přeměřit, se měl nacházet hned vedle cesty. Opravdu, nedalo nám práci nalézt za hromadou štěrku naši tyč. Kdosi ji sem přenesl i s patkou a s varováním, že poškození státní triangulace se trestá. Nová cesta pochopitelně nemusela být totožná s původní.
 
@@ -520,8 +506,6 @@ Přiznal jsem, že nedovedu.
 
 ## 9\. Krajina
 
-  
-
 Papírnici jsem přivezl figurku ohyzdného mimozemšťana, ale zatím jsem jí dárek nepředal. Ráno jsme totiž odjížděli, než se papírnictví otevřelo, a vraceli jsme se, když už milovnice mimozemšťana dávno odjela. Čekal jsem na den s deštěm, kdy bychom zůstali doma. Pro deštivý den jsem měl připraveno nejen předání loutky, ale i balík knih, které jsem tu doufal přečíst. Panoval však nejsušší podzim, jaký jsem pamatoval.
 
 Papírnici jsem uviděl jen jednou. Vrátili jsme se na oběd k Černému kosovi, protože jsem dopoledne ztratil tužku, zašel jsem do obchodu.
@@ -646,8 +630,6 @@ V Čítance pro školy rolnické staré sto let jsem se večer dozvěděl: _Če
 
 ## 10\. Továrna
 
-  
-
 Vyjeli jsme ještě za tmy do lepkavé podzimní mlhy.
 
 V prostoru továrny a v jejím nejbližším okolí jsme měli několik bodů, jejich kontrolu však inženýr odkládal. K vstupu do továrny jsme potřebovali několik doporučení a povolení od oddělení zvláštních úkolů. Shánět je si žádalo času, jehož se nám trvale nedostávalo. Kamenům na území závodu, dalo se předpokládat, hrozilo ze všech našich kamenů nejméně nebezpečí. Pokud nevyletí do povětří, stejně se nás dočkají.
@@ -762,26 +744,24 @@ Vybavil se mi vojáček, který jako omámený kráčel drátěnou klecí, aniž
 
 ## 11\. Dopis
 
-Pane řediteli K.,
+_Pane řediteli K.,_
 
-při setkáních se svými kolegy jsem zjistil, že jste zpochybnil nejen charakter mé práce, ale i práci jejich, také jejich umělecké usilování jste prohlásil za neprokazatelné. Dozvěděl jsem se, že většina z nich se rozhodla bránit se a snaží se prokázat, že jsou umělci, jako důkaz přinášejí své knihy, zprávy o uvedení svých her na nejrůznějších světových scénách, anebo dokonce zmiňují své literární ceny. Udivilo Vás, proč jsem něco takového neučinil rovněž já? Mohl bych jednoduše prohlásit, že podobné jednání mi nepřipadá důstojné, anebo tvrdit, že raději přijímám osud pokorně nežli se vzdorem, jistě by na tom bylo něco pravdy. Ale lhal bych, kdybych předstíral, že není mým přáním, aby lidé jako Vy zmizeli z křesel zámků, odkud provozují svoje ničemné dílo. Sporným však zůstává, co podnikat, aby zmizeli.
+_při setkáních se svými kolegy jsem zjistil, že jste zpochybnil nejen charakter mé práce, ale i práci jejich, také jejich umělecké usilování jste prohlásil za neprokazatelné. Dozvěděl jsem se, že většina z nich se rozhodla bránit se a snaží se prokázat, že jsou umělci, jako důkaz přinášejí své knihy, zprávy o uvedení svých her na nejrůznějších světových scénách, anebo dokonce zmiňují své literární ceny. Udivilo Vás, proč jsem něco takového neučinil rovněž já? Mohl bych jednoduše prohlásit, že podobné jednání mi nepřipadá důstojné, anebo tvrdit, že raději přijímám osud pokorně nežli se vzdorem, jistě by na tom bylo něco pravdy. Ale lhal bych, kdybych předstíral, že není mým přáním, aby lidé jako Vy zmizeli z křesel zámků, odkud provozují svoje ničemné dílo. Sporným však zůstává, co podnikat, aby zmizeli._
 
 Nikdo není, jak možná víte i Vy, nesmrtelný ani nezranitelný. I ti nejskvělejší heroové a polobozi kromě svých neprůstřelných štítů, zázračných mečů a neznavitelných svalů měli svoji zasažitelnou patu, své křehké vlasy anebo potřebu dotýkat se země. Vaším štítem i mečem je Vaše křeslo, vysoko vyzdvižené nejen nad zemi, ale i nad všechen život, nad všechnu lidskost – o spravedlnosti ani nemluvím.
 
-Kdo s Vámi vede spor, míním čestný spor, nejen že nemůže zvítězit, ale tím, že uznává Vaši svévoli za pravomocnou, ještě více pozvedá Vaše křeslo a utvrzuje Vás v pocitu nadřazenosti, jenž poskytuje moc. Co pro vás znamená nějaká kniha nebo hra – jakékoli dílo, i kdyby bylo sebegeniálnější? Co pro Vás znamená nějaký umělec, který s Vámi vede při? Dostal jste ho přesně tam, kde jste si ho Vy a samozřejmě i ti, kteří Vás jmenovali, přáli mít. K podnoží svého křesla: ať tam vydrží co nejdéle, ať se zmítá, ať škemrá, ať píše žádosti, kterými rád naplníte svoje koše, když se předtím potěšíte jeho pokořením. V tom sporu jste nezasažitelný.
+_Kdo s Vámi vede spor, míním čestný spor, nejen že nemůže zvítězit, ale tím, že uznává Vaši svévoli za pravomocnou, ještě více pozvedá Vaše křeslo a utvrzuje Vás v pocitu nadřazenosti, jenž poskytuje moc. Co pro vás znamená nějaká kniha nebo hra – jakékoli dílo, i kdyby bylo sebegeniálnější? Co pro Vás znamená nějaký umělec, který s Vámi vede při? Dostal jste ho přesně tam, kde jste si ho Vy a samozřejmě i ti, kteří Vás jmenovali, přáli mít. K podnoží svého křesla: ať tam vydrží co nejdéle, ať se zmítá, ať škemrá, ať píše žádosti, kterými rád naplníte svoje koše, když se předtím potěšíte jeho pokořením. V tom sporu jste nezasažitelný._
 
-Kde tedy, na kterém místě Vašeho těla leží Vaše zranitelné místo? Máte je vůbec? A máte vůbec tělo?
+_Kde tedy, na kterém místě Vašeho těla leží Vaše zranitelné místo? Máte je vůbec? A máte vůbec tělo?_
 
-Vaše tělo, stejně jako celá Vaše bytost se jistě dají zaměnit a kdykoliv nahradit, co se však zaměnit a nahradit nedá, je svět, který jste si Vy a ti, kteří Vás jmenovali, pro sebe vytvořili. Umělý svět, který prohlašujete za jediný skutečný, neboť v něm platí jen ty zákony, které jste sami dali, a pravdou je pouze to, co Vy za ni vyhlásíte. Můžete tedy být zasažen jedině tehdy, najde-li se síla, která zruší nedotknutelnost a celistvost Vašeho světa, a tím Vás vrátí zpět na oči lidí.
+_Vaše tělo, stejně jako celá Vaše bytost se jistě dají zaměnit a kdykoliv nahradit, co se však zaměnit a nahradit nedá, je svět, který jste si Vy a ti, kteří Vás jmenovali, pro sebe vytvořili. Umělý svět, který prohlašujete za jediný skutečný, neboť v něm platí jen ty zákony, které jste sami dali, a pravdou je pouze to, co Vy za ni vyhlásíte. Můžete tedy být zasažen jedině tehdy, najde-li se síla, která zruší nedotknutelnost a celistvost Vašeho světa, a tím Vás vrátí zpět na oči lidí._
 
-Tou silou, pane řediteli K., je příběh. Příběh ze skutečného světa. Sto žádostí můžete hodit do koše, a žádné srdce se nezachvěje, ale sto příběhů neumlčíte. Ty příběhy, ať budou vyprávět cokoliv, ať je ponesou láska, utrpení či něha, budou vždy ukazovat k Vašemu ničemnému dílu. Nakonec Vás zasáhnou a Vy padnete ze své zdánlivě nedobytné výše, ze svého nezasažitelného světa zpět do nicoty, z níž jste vzešel. Přál bych Vám, abyste aspoň při tom pádu pochopil, že ty příběhy Vás přežijou.
+_Tou silou, pane řediteli K., je příběh. Příběh ze skutečného světa. Sto žádostí můžete hodit do koše, a žádné srdce se nezachvěje, ale sto příběhů neumlčíte. Ty příběhy, ať budou vyprávět cokoliv, ať je ponesou láska, utrpení či něha, budou vždy ukazovat k Vašemu ničemnému dílu. Nakonec Vás zasáhnou a Vy padnete ze své zdánlivě nedobytné výše, ze svého nezasažitelného světa zpět do nicoty, z níž jste vzešel. Přál bych Vám, abyste aspoň při tom pádu pochopil, že ty příběhy Vás přežijou._
 
-_S pozdravem  
-zeměměřičský pomocník K._
+> _S pozdravem  
+> zeměměřičský pomocník K._
 
 ## 12\. Hřbitovy
-
-  
 
 Papírnice chodí v černém.
 
@@ -854,8 +834,6 @@ Ohlédl jsem se ještě. Starší bratr ředitele K. tam osaměle stál, jako by
 Náhle mě to bleskem napadlo: Přemítá o tom, komu a kde nás udat!
 
 ## 13\. Měsíc
-
-  
 
 Hned první týden se inženýr zmínil o tom, že mu při posledním měření na Moravě, náhodou nedaleko od jeho domova, nepřálo štěstí, celý měsíc propršel. Potřeboval dva body zaměřit v noci na Polárku, ale jasné noci se v té době nedočkal.
 
@@ -999,8 +977,6 @@ Neobjasnil, zda měl na mysli mé obětavé zapisovačství, anebo to, že jsem 
 
 ## 14\. Vlajky
 
-  
-
 Poslední ráno mě vzbudilo podivné ťapkání nad hlavou; cosi opakovaně dopadalo seshora na strop, jako by někdo na půdě přesypával písek.
 
 „Asi nám už rozebírají střechu,“ navrhl jsem vysvětlení. Inženýr namítl, že papírnictví je přece dosud otevřeno, také paní Pokornou ještě včera zahlédl, jak si i se svým kanárem hoví na dvorku.
@@ -1063,4 +1039,4 @@ Už jsem opět nasedal, když tu náhle z obchodu vyběhla má známá papírni
 
 Rozjel jsem se, ale ještě jednou jsem se ohlédl. Dosud tam stála, jednou rukou svírala ohyzdnou modlu mimozemšťana, v druhé držela barevný kapesníček a mávala mi, jako bych i já byl nějaký mimozemšťan, který se navždy vzdaluje z její bezútěšné planety.
 
-(1988)
+> (1988)

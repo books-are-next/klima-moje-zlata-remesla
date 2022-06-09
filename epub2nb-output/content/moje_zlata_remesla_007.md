@@ -3,8 +3,6 @@ title: Archeologická povídka
 contentType: prose
 ---
 
-  
-
 Maringotku už prohřívalo slunce. Spěšně jsem otevřel kovovou skříňku, do jaké si dělníci obvykle ukládají šaty, vzal odtud dva štětce, škrabku a balíček papírových pytlíků. Měl jsem žízeň. K pití tu nebylo nic, jen na stole leželo několik jablíček, která nám přinesl mistr Vítek ze své zahrady. Vzal jsem si jedno do kapsy, do druhého jsem se zakousl a se svým nevelkým nákladem jsem maringotku zase opustil; klíč jsem schoval do železné konstrukce vedle zadního kola – tam, kde se před případnými vetřelci schovávají klíče ve všech maringotkách, které jsem kdy viděl, a vydal jsem se na cestu mezi haldami vykopané zeminy a kalužemi, co tu zůstaly po nedávných deštích. Pohřebiště se odtud nedalo vidět, zato borový les na protější stráni a skoro celé staveniště. Kovové konstrukce budoucích hal sálaly horko, a já si najednou uvědomil, že stavba, na níž pracovalo či mělo pracovat nejméně sto lidí, je tichá, tišší, než bývá pohřebiště, kde se nás nesejde nikdy víc než pět.
 
 K archeologii jsem neměl vyhraněný vztah, rozhodně nepatřila mezi moje koníčky. Na gymnáziu jeden z mých spolužáků si vášnivě přál být archeologem. Kamarádili jsme jeden čas spolu, tehdy mě vodil po hradištích v okolí Prahy, dokonce mě přiměl k tomu, že jsem v batohu vláčel motyčku a lopatku. Opravdu jsme ze země občas vyškrábli kus hliněného střepu. Kamarád mě pak nadšeně poučoval o jeho tvůrcích, díky tomu jsem aspoň něco málo věděl o kultuře nálevkovitých pohárů a o kultuře kulovitých amfor, o kultuře volutové, řivnáčské a únětické i o lidu se šňůrovou keramikou. Na studium archeologie mého kamaráda nepřijali, jeho rodiče vlastnili parní mandl, tehdy se na takové věci ještě hledělo; a já za ta léta zapomněl skoro všechno, co jsem slyšel o pravěkých hrnčířích anebo o keltských hradištích, v paměti mi utkvěla jen ta jednotlivá poetická spojení v názvech dávných kultur.
@@ -341,4 +339,4 @@ Sedl jsem si znovu na schůdky. Z lesa na protější stráni stoupala pára. �
 
 Kovový hlas ještě chvíli zněl, pak zvolna slábl, jako by se propadal do zemských hlubin. Ale já ho slyšel znít ještě i potom, když docela utichl.
 
-(1984)
+> (1984)
