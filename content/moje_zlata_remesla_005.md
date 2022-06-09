@@ -3,8 +3,6 @@ title: Malířská povídka
 contentType: prose
 ---
 
-  
-
 Ráno jsem se rozhodl, že pojedu ven. Venku, aspoň se tak tváří, se chystá hezký den, žena bude v práci až do večera, a já cítím, že bych stejně nic nenapsal. Poslední dobou mě skličuje vědomí, že všechno už bylo napsáno, všechny příběhy už někdo odvyprávěl, natočil anebo nahrál, třebaže já to nevím; i kdybych měl sto hlav, většiny z toho, co ostatní pověděli, se nedopátrám.
 
 Letos koncem zimy nám moje sestřenka – malířka nabídla, že po celý rok, kdy ona bude na druhém konci republiky, můžeme používat její venkovský domek v M. Sestřenka je krásná, drobná a maličká, stejně takový byl i její domek, vadilo mi na něm snad jen to, že stojí u silnice, kde se po celý den honí auta, náklaďáky a traktory. Zato k němu jezdí stejný vlak, který nám doma houká pod okny. Stačí se rozhodnout, strčit do tašky nějakou knížku, namazaný chleba a ve správnou chvíli seběhnout k nádraží, a za hodinu jsme na místě. Nejvíc jsem si sliboval od toho, že v sousedství, jak mě sestřenka ujistila, žijí samí zajímaví lidé, hned do vedlejšího stavení se například nedávno nastěhoval mladý rómský pár. Snad se mi tady podaří přece jen objevit nějaký zajímavý a neotřelý příběh.
@@ -37,17 +35,17 @@ Přibližně jsem to věděl, a on mě navíc poučil, že to je země posklád
 
 Večer, když odešel, jsem si otevřel Kazatele, kde, jak jsem mnohokrát poznal, už všechno je, a opravdu jsem to tam nalezl.
 
-Všechny věci jsou tak únavné,
+_Všechny věci jsou tak únavné,_
 
-že se to ani nedá vypovědět…
+_že se to ani nedá vypovědět…_
 
-Je něco, o čem lze říci:
+_Je něco, o čem lze říci:_
 
-Hleď, to je cosi nového?
+_Hleď, to je cosi nového?_
 
-I to bylo v dávných dobách,
+_I to bylo v dávných dobách,_
 
-které byly před námi.
+_které byly před námi._
 
 Ale stejně psal a po něm ještě tolik jiných. Obdivuju je za to: Seneku a Suetonia stejně jako Čechova, Wildera, Bölla, Dürrenmatta, Greena anebo Demla, ačkoliv mi vzali poslední zbytek naděje na to, že bych ještě mohl najít příběh, který někdo nevyprávěl. Obdivuju je za to, že nic nevzdali a po kapkách hledali v šedivé záplavě slov a stále se opakujících příběhů, v tom moři, v němž stáli, stejně jako v něm stojím já, stáli na špičkách od rána do noci, aby jim aspoň oči a nos vyčuhovaly nad hladinu.
 
@@ -65,15 +63,15 @@ Před dvaceti lety bych si určitě přál poznat je blíže. Přestal jsem malo
 
 Kazatel o takové pošetilosti praví:
 
-Slova z úst moudrého plynou,
+_Slova z úst moudrého plynou,_
 
-kdežto hlupáka vlastní rty pohlcují.
+_kdežto hlupáka vlastní rty pohlcují._
 
-Sotvaže promluví, prozradí pomatenost,
+_Sotvaže promluví, prozradí pomatenost,_
 
-a když domluví, zlou ztřeštěnost.
+_a když domluví, zlou ztřeštěnost._
 
-Pomatenec má plno řečí…
+_Pomatenec má plno řečí…_
 
 _Spisování mnoha knih nebere konce_…, stěžuje si na závěr.
 
@@ -135,9 +133,9 @@ Krajinu zalévalo slunce, k nebi strmě čněl nedaleký kopec, na jeho úpatí
 
 Na to odpovídá Kazatel:
 
-Kdo příliš dá na vítr, nebude sít,
+_Kdo příliš dá na vítr, nebude sít,_
 
-kdo hledí na mraky, nebude sklízet…
+_kdo hledí na mraky, nebude sklízet…_
 
 Předpokládám, že tuhle krajinu přede mnou už malovalo několik malířů. Kolikrát ji zvěčnili majitelé aparátů na fotografiích, těžko kdo spočítá. Mohl bych ji, abych se nějak odlišil, pojmout třeba kubisticky anebo surrealisticky, namalovat do popředí místo jeřabiny mrtvou hrdličku anebo aspoň obrovského strakapúda s vyrudlým peřím. Mohl bych předstírat, že krajinu vidím ve zcela jiných barvách, než jak ji vidí třeba oko aparátu a nejspíš také oko většiny lidí, ale proč bych to dělal? Kdybych byl malířem, zoufal bych si nejspíš tak, jako si zoufá můj přítel Karel, když shledal, že se mu sotva podaří překročit mez, kterou už před ním dosáhli jiní. Naštěstí jsem se díky zkažené slunečnici navždy zbavil povinnosti vymýšlet cokoliv nového – aspoň na výtvarném poli. Mohl jsem se bez výčitek svědomí těšit tím, že můj jeřáb se aspoň vzdáleně podobá jeřábu, na který právě hledím, a že, až jednou pohlédnu na svůj obrázek, vytane mi snad pohoda právě této chvíle.
 
@@ -155,25 +153,25 @@ Jak můžeme dosáhnout opravdové solidarity, když se nedokážeme ani oslovit
 
 Nedávno mi Karel přinesl verše svého přítele básníka, který se krátce předtím oběsil. Báseň zněla:
 
-1… toho dne
+_1… toho dne_
 
-2… toho rána
+_2… toho rána_
 
-3… toho dopoledne
+_3… toho dopoledne_
 
-4… toho poledne
+_4… toho poledne_
 
-5… toho odpoledne
+_5… toho odpoledne_
 
-6… toho podvečera
+_6… toho podvečera_
 
-7… toho večera
+_7… toho večera_
 
-8… té noci
+_8… té noci_
 
-9… ano právě tehdy
+_9… ano právě tehdy_
 
-10… se to stalo
+_10… se to stalo_
 
 Byla to jeho poslední báseň. Jistě věřil, že právě touhle očištěnou řečí se staví proti kalným vlnám otrávených vod, že si strojí člun anebo aspoň vor, na němž dopluje do blízkosti těch druhých, ale pak ho napadlo, že ani z tohoto plavidla se nedovolá, a vzdal to. Hodili ho do hromadného hrobu – a měl to odbyté.
 
@@ -199,11 +197,9 @@ Vrátil jsem se do domku, uklidil barvičky, chvíli jsem se díval na svůj ná
 
 Neprovinil jsem se ničím, ale nedokázal jsem se zbavit nepříjemného pocitu, že jsem si maloval zcela zbytečný obrázek v nepatřičnou chvíli. Kdybych byl jen tušil, že ta dívka se rozhodla to vzdát… Ale co bych byl mohl udělat? Člověk se tak často pokouší promluvit, ale sluchu nedojde. Chtěl by najít anebo jen opakovat slůvko naděje:
 
-Nebuď příliš svévolný a nebuď jako pomatenec;
+_Nebuď příliš svévolný a nebuď jako pomatenec;_
 
-proč bys umíral, než vyprší tvůj čas?
-
-  
+_proč bys umíral, než vyprší tvůj čas?_
 
 ale jeho hlas zanikne v řevu vln, které se kolem něho valí.
 
@@ -315,19 +311,19 @@ Nejspíš je to pravda. Musí to být hrozné dokončit dílo a nemít už síl
 
 Kazatel o tom praví:
 
-Podnikal jsem velkolepá díla,
+_Podnikal jsem velkolepá díla,_
 
-postavil jsem si domy,
+_postavil jsem si domy,_
 
-vysázel vinice,
+_vysázel vinice,_
 
-založil si zahrady a sady…
+_založil si zahrady a sady…_
 
-I pohlédl jsem na všechno, co bylo mýma rukama
+_I pohlédl jsem na všechno, co bylo mýma rukama_
 
-vykonáno, na své klopotné pachtění,
+_vykonáno, na své klopotné pachtění,_
 
-a hle, všechno je pomíjivost a honba za větrem…
+_a hle, všechno je pomíjivost a honba za větrem…_
 
 Někdo ani dílo nezačne a už zjistí, že mu síly došly. Zahlédne moře a pochopí, že je nepřeplave. Vlny kolem něho řvou. Zavolá o pomoc, pochopí, že se nedovolá, a vzdá to. Rozběhne se tedy do lesa, uvidí koleje, lehne si na ně a čeká. Takový je to příběh – její jediný a neopakovatelný. Několik vět.
 
@@ -339,10 +335,10 @@ Pak jsem si ještě vzpomněl na mrtvou hrdličku, která to vzdala dnešního r
 
 Kazatel také praví:
 
-Shledal jsem, že není nic lepšího,
+_Shledal jsem, že není nic lepšího,_
 
-než když se člověk raduje z toho, co koná,
+_než když se člověk raduje z toho, co koná,_
 
-neboť to je jeho podíl…
+_neboť to je jeho podíl…_
 
-(1983)
+> (1983)

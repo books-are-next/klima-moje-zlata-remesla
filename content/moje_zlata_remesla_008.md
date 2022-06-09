@@ -3,8 +3,6 @@ title: Řidičská povídka
 contentType: prose
 ---
 
-  
-
 Nadcházela sezóna plesů a zločinnost stoupala. Plesy mě zajímaly málo – netančím. V okolí našeho obydlí se pohyboval pedofil. Ve škole nás varovali: nemáme připustit, aby děti chodily samy po ulici. Dcera mi sdělila, že když se vracela se svou mladší kamarádkou ze cvičení, uviděly na rohu u telefonní budky cizího chlapíka, chtěl, aby mu vyměnily korunu za dva padesátníky.
 
 „A co jste udělaly?“
@@ -225,9 +223,9 @@ Z mé nehybnosti mě vytrhla dcera, kývla na mě, a když jsem se naklonil do
 
 Můj známý strojvůdce a ctitel Hamleta by to možná vyjádřil jemněji:
 
-… Rightly to be great
+_… Rightly to be great_
 
-Is not to stir without great argument…
+_Is not to stir without great argument…_
 
 Člověk se vzpírá Té, která nám v různých převlecích panuje, chce si na ní vyvzdorovat aspoň právo na šlépěj, kterou by po sobě zanechal, na čin, který by považoval za svůj. Vede s Ní zápas o právo na důstojný život. Ona a její pomahači se však snaží znicotnit vše, oč zápasí, změnit předmět sporu, v němž jde o bytí, na malichernou šarvátku, která leda poníží toho, kdo do ní vstoupí. Tak člověka lapí do svých sítí, změní i jeho vzdor na šaškovský výstup v manéži, do níž mu promění svět.
 
@@ -383,9 +381,9 @@ Vyšplhal jsem se po strmých schůdcích a vstoupil do kabiny.
 
 Zvenku se z dvířek skříňky usmívala světlovláska na břehu jakési vodní nádrže, hned vedle obrázku Kromborgu, zámku Hamletova:
 
-The time is out of joint: – o cursed spite,
+_The time is out of joint: – o cursed spite,_
 
-that ever I was born to set it right! –
+_that ever I was born to set it right! –_
 
 Není moc co ukazovat, řekl, řídí se to snadněji než koloběžka. Ale ukázal mi, jak se spouští motor, a upozornil mě, že půlkolo uprostřed řídícího pultu není volant, nýbrž kontrolér. Ten má osm stupňů, jím budu řídit rychlost. Tohle je rychlobrzda! Tlačítku vedle kontroléru se říká živák, mou povinností je stisknout jej každých deset vteřin. Než si zvyknu, bude mě asi rozčilovat. Ještě mi ukázal rychloměr. Musím jej mít pořád na očích, rychlost se totiž zaznamenává tady na proužek, po jízdě se proužek odevzdává, kdybychom někde překročili, bude pokuta.
 
@@ -423,4 +421,4 @@ Pochopil jsem, že proto mě pozval, nabídl mi příležitost, abych aspoň na 
 
 Kvapně jsem se vrátil na své místo a zmáčkl tlačítko na znamení, že dosud žiju.
 
-(1987)
+> (1987)
