@@ -3,6 +3,8 @@ title: Zeměměřičská povídka
 contentType: prose
 ---
 
+<section>
+
 ## 1\. Dům
 
 Věděl jsem jenom jméno ulice a číslo domu, víc mi můj přítel geodet, který mi místo opatřil, říci nemohl, neboť v městečku sám nikdy nebyl. Dům určitě najdu, prý je hned u náměstí, přepych však čekat nesmím, zeměměřiči bývají šetrní, značnou část jejich příjmů tvoří nocležné, stravné, odlučné a podobné příplatky, kdyby je měli opravdu vydat za noclehy a stravu a měli být pět dní v týdnu odloučeni, práce by pro ně ztratila i tu poslední přitažlivost. Proto se snaží získat ubytování, které je laciné.
@@ -1040,3 +1042,5 @@ Už jsem opět nasedal, když tu náhle z obchodu vyběhla má známá papírni
 Rozjel jsem se, ale ještě jednou jsem se ohlédl. Dosud tam stála, jednou rukou svírala ohyzdnou modlu mimozemšťana, v druhé držela barevný kapesníček a mávala mi, jako bych i já byl nějaký mimozemšťan, který se navždy vzdaluje z její bezútěšné planety.
 
 > (1988)
+
+</section>

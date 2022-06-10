@@ -3,6 +3,8 @@ title: Malířská povídka
 contentType: prose
 ---
 
+<section>
+
 Ráno jsem se rozhodl, že pojedu ven. Venku, aspoň se tak tváří, se chystá hezký den, žena bude v práci až do večera, a já cítím, že bych stejně nic nenapsal. Poslední dobou mě skličuje vědomí, že všechno už bylo napsáno, všechny příběhy už někdo odvyprávěl, natočil anebo nahrál, třebaže já to nevím; i kdybych měl sto hlav, většiny z toho, co ostatní pověděli, se nedopátrám.
 
 Letos koncem zimy nám moje sestřenka – malířka nabídla, že po celý rok, kdy ona bude na druhém konci republiky, můžeme používat její venkovský domek v M. Sestřenka je krásná, drobná a maličká, stejně takový byl i její domek, vadilo mi na něm snad jen to, že stojí u silnice, kde se po celý den honí auta, náklaďáky a traktory. Zato k němu jezdí stejný vlak, který nám doma houká pod okny. Stačí se rozhodnout, strčit do tašky nějakou knížku, namazaný chleba a ve správnou chvíli seběhnout k nádraží, a za hodinu jsme na místě. Nejvíc jsem si sliboval od toho, že v sousedství, jak mě sestřenka ujistila, žijí samí zajímaví lidé, hned do vedlejšího stavení se například nedávno nastěhoval mladý rómský pár. Snad se mi tady podaří přece jen objevit nějaký zajímavý a neotřelý příběh.
@@ -342,3 +344,5 @@ _než když se člověk raduje z toho, co koná,_
 _neboť to je jeho podíl…_
 
 > (1983)
+
+</section>

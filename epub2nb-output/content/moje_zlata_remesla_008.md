@@ -3,6 +3,8 @@ title: Řidičská povídka
 contentType: prose
 ---
 
+<section>
+
 Nadcházela sezóna plesů a zločinnost stoupala. Plesy mě zajímaly málo – netančím. V okolí našeho obydlí se pohyboval pedofil. Ve škole nás varovali: nemáme připustit, aby děti chodily samy po ulici. Dcera mi sdělila, že když se vracela se svou mladší kamarádkou ze cvičení, uviděly na rohu u telefonní budky cizího chlapíka, chtěl, aby mu vyměnily korunu za dva padesátníky.
 
 „A co jste udělaly?“
@@ -422,3 +424,5 @@ Pochopil jsem, že proto mě pozval, nabídl mi příležitost, abych aspoň na 
 Kvapně jsem se vrátil na své místo a zmáčkl tlačítko na znamení, že dosud žiju.
 
 > (1987)
+
+</section>

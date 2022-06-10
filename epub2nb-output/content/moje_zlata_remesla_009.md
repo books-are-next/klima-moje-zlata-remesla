@@ -3,6 +3,8 @@ title: Posílkářská povídka
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Do ústavu jsem přišel až po deváté, dřív stejně pro mě k odnesení nic nemívali. Obvykle nic neměli ani po deváté, bylo léto a většina zaměstnanců odjela na dovolenou. Kromě toho na velkém počítači ve Strašnicích se něco porouchalo, takže nebyly ani archy od počítače, které programátoři, asi ne zcela v duchu českého jazyka, nazývají: sjetiny. Vystoupal jsem do třetího poschodí, výtah nepoužívám, nedůvěřuji mu, nevím, proč právě výtahy by se měly vymykat ze stavu všeobecné zvetšelosti, taky se mi protiví vozit se někam, kam se mohu dobře dostat po svých. V kanceláři sedávaly sekretářka a ekonomka, obě byly mladé a milé, každá jinak hezká, a obě si rády povídaly. Poštu, pokud nějaká byla, jsem míval připravenu na stole vedle dveří. Dneska jsem tu zastihl jenom ekonomku a můj stůl zel prázdnotou nebo přesněji: spočívala na něm jenom váza plná gladiol. Pozdravil jsem, ekonomka ke mně vzhlédla. „Ani jste dneska nemusel chodit,“ přivítala mě.
@@ -810,3 +812,5 @@ Složil jsem papír do malého čtverečku a podal ho skutečné paní Nataše.
 Vzala si ode mě papír a slíbila, že ho předá. Poděkoval jsem jí a pospíchal na autobus, abych dorazil včas a mohl na rozloučenou s hodnými programátory i se svým posílkařením začít s přípravou kuřete à la Rávalpindí.
 
 > (1989)
+
+</section>
