@@ -1,6 +1,6 @@
 ---
 title: Řidičská povídka
-contentType: prose
+contentType: poetry
 ---
 
 <section>

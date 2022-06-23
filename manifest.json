@@ -1,0 +1,313 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Moje zlatá řemesla",
+  "author": "Ivan Klíma",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "klima-moje-zlata-remesla-e391f27",
+  "revision": "e391f27",
+  "readingOrder": [
+    "promo.html",
+    "moje_zlata_remesla_005.html",
+    "moje_zlata_remesla_006.html",
+    "moje_zlata_remesla_007.html",
+    "moje_zlata_remesla_008.html",
+    "moje_zlata_remesla_009.html",
+    "moje_zlata_remesla_010.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jun 23 2022 18:10:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656007814495
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "moje_zlata_remesla_005.html",
+      "toc": []
+    },
+    {
+      "title": "Malířská povídka",
+      "file": "moje_zlata_remesla_005.html",
+      "words": 6895,
+      "chars": 40933,
+      "ideas": 171,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "moje_zlata_remesla_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malířská povídka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pašerácká povídka",
+      "file": "moje_zlata_remesla_006.html",
+      "words": 7593,
+      "chars": 45319,
+      "ideas": 182,
+      "role": "chapter",
+      "order": 2,
+      "prev": "moje_zlata_remesla_005.html",
+      "next": "moje_zlata_remesla_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pašerácká povídka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Archeologická povídka",
+      "file": "moje_zlata_remesla_007.html",
+      "words": 6032,
+      "chars": 35957,
+      "ideas": 170,
+      "role": "chapter",
+      "order": 3,
+      "prev": "moje_zlata_remesla_006.html",
+      "next": "moje_zlata_remesla_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Archeologická povídka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Řidičská povídka",
+      "file": "moje_zlata_remesla_008.html",
+      "words": 8935,
+      "chars": 53899,
+      "ideas": 211,
+      "role": "chapter",
+      "order": 4,
+      "prev": "moje_zlata_remesla_007.html",
+      "next": "moje_zlata_remesla_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Řidičská povídka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Posílkářská povídka",
+      "file": "moje_zlata_remesla_009.html",
+      "words": 12043,
+      "chars": 71326,
+      "ideas": 405,
+      "role": "chapter",
+      "order": 5,
+      "prev": "moje_zlata_remesla_008.html",
+      "next": "moje_zlata_remesla_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Posílkářská povídka",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Zeměměřičská povídka",
+      "file": "moje_zlata_remesla_010.html",
+      "words": 23281,
+      "chars": 140857,
+      "ideas": 521,
+      "role": "chapter",
+      "order": 6,
+      "prev": "moje_zlata_remesla_009.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zeměměřičská povídka",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. Dům",
+              "id": "1-dům",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2. Večer",
+              "id": "2-večer",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3. Kámen",
+              "id": "3-kámen",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4. Dopis",
+              "id": "4-dopis",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5. Doma",
+              "id": "5-doma",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6. Papírnice",
+              "id": "6-papírnice",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7. Půda",
+              "id": "7-půda",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8. Inženýr",
+              "id": "8-inženýr",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9. Krajina",
+              "id": "9-krajina",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10. Továrna",
+              "id": "10-továrna",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11. Dopis",
+              "id": "11-dopis",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12. Hřbitovy",
+              "id": "12-hřbitovy",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13. Měsíc",
+              "id": "13-měsíc",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14. Vlajky",
+              "id": "14-vlajky",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 136,
+      "chars": 892,
+      "ideas": 15,
+      "role": "colophon",
+      "order": null,
+      "prev": "moje_zlata_remesla_010.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 64921,
+      "chars": 389214,
+      "ideas": 1678
+    },
+    "chapters": {
+      "words": 64779,
+      "chars": 388291,
+      "ideas": 1660
+    }
+  }
+}

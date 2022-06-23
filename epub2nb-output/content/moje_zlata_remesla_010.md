@@ -1,6 +1,6 @@
 ---
 title: Zeměměřičská povídka
-contentType: prose
+contentType: poetry
 ---
 
 <section>
