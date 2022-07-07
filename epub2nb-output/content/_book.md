@@ -21,7 +21,7 @@ readingOrder:
   - moje_zlata_remesla_008.html
   - moje_zlata_remesla_009.html
   - moje_zlata_remesla_010.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
