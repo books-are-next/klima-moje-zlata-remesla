@@ -26,7 +26,7 @@
       "blockquote": "MLP.DENIK\nMLP.citat\nMLP.dopis.*\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "figure": "MLP.obrazky.*\nmlpobrazky",
       "centered": ".*uprostred.*",
-      "verse": "MLP.verse.*",
+      "verse": "MLP.verse.* MLP_text_-I- ParaOverride-1",
       "em": ".*-I\n.*-I-.*\n.*_I\n.*_I_.*\n.*kurziva.*\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\nMLP.titulka.prekladatel\nMLP.venovani\nMLP.verse.*\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": ".*-B\n.*-B-\n.*_B\n.*_B_\n.*tucna.*\n.*tucne.*\nMLP.licence.paragraf\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\nMLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
@@ -325,6 +325,6 @@
       "user": "books-are-next",
       "repo": "klima-moje-zlata-remesla"
     },
-    "generatedAt": 1656007696868
+    "generatedAt": 1658413537724
   }
 }
