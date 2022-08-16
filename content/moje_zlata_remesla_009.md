@@ -1,6 +1,6 @@
 ---
 title: Posílkářská povídka
-contentType: poetry
+contentType: prose
 ---
 
 <section>

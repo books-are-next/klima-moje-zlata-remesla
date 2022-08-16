@@ -1,6 +1,6 @@
 ---
 title: Archeologická povídka
-contentType: poetry
+contentType: prose
 ---
 
 <section>

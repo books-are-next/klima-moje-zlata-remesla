@@ -1,6 +1,6 @@
 ---
 title: Pašerácká povídka
-contentType: poetry
+contentType: prose
 ---
 
 <section>
