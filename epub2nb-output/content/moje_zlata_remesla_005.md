@@ -1,6 +1,6 @@
 ---
 title: Malířská povídka
-contentType: poetry
+contentType: prose
 ---
 
 <section>
