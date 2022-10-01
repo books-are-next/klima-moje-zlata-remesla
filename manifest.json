@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "klima-moje-zlata-remesla-dd8589f",
-  "revision": "dd8589f",
+  "identifier": "klima-moje-zlata-remesla-e6ca79a",
+  "revision": "e6ca79a",
   "readingOrder": [
     "promo.html",
     "moje_zlata_remesla_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:26:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486790856
+    "date": "Sat Oct 01 2022 15:57:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639824190
   },
   "documents": [
     {
