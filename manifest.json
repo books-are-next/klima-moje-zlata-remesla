@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "klima-moje-zlata-remesla-b46e9ad",
-  "revision": "b46e9ad",
+  "identifier": "klima-moje-zlata-remesla-2d27010",
+  "revision": "2d27010",
   "readingOrder": [
     "promo.html",
     "moje_zlata_remesla_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:51:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150665805
+    "date": "Mon Oct 10 2022 15:43:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416595773
   },
   "documents": [
     {
@@ -281,7 +281,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 134,
-      "chars": 892,
+      "chars": 893,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -301,7 +301,7 @@
   "totals": {
     "all": {
       "words": 64919,
-      "chars": 389214,
+      "chars": 389215,
       "ideas": 1676
     },
     "chapters": {
