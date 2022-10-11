@@ -8,7 +8,7 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-03-17T00:00:00.000Z",
       "contentType": "prose",
-      "isbn": "978-80-274-1425-3",
+      "isbn": "",
       "publisherShort": "mkp"
     },
     "elements": {
@@ -28,7 +28,7 @@
       "centered": ".*uprostred.*",
       "verse": "MLP.verse.* MLP_text_-I- ParaOverride-1",
       "em": ".*-I\n.*-I-.*\n.*_I\n.*_I_.*\n.*kurziva.*\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\nMLP.titulka.prekladatel\nMLP.venovani\nMLP.verse.*\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
-      "strong": ".*-B\n.*-B-\n.*_B\n.*_B_\n.*tucna.*\n.*tucne.*\nMLP.licence.paragraf\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\nMLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "strong": ".*-B\n.*-B-\n.*_B\n.*_B_\n.*tucna.*\n.*tucne.*\nMLP.licence.paragraf\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\nMLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev\nCharOverride-2",
       "remove": "",
       "ignore": ""
     },
@@ -44,7 +44,7 @@
             "id": 0,
             "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -325,6 +325,6 @@
       "user": "books-are-next",
       "repo": "klima-moje-zlata-remesla"
     },
-    "generatedAt": 1660635215797
+    "generatedAt": 1665415606498
   }
 }
