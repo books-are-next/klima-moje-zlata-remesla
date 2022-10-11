@@ -11,7 +11,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-03-17T00:00:00.000Z'
   contentType: prose
-  isbn: 978-80-274-1425-3
+  isbn: ''
   publisherShort: mkp
 readingOrder:
   - promo.html

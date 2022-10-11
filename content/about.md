@@ -2,13 +2,12 @@
 title: Tiráž
 ---
 
-Ivan Klíma    
-Moje zlatá řemesla  
+**Ivan Klíma    
+Moje zlatá řemesla**  
 Redakce Markéta Teuchnerová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-ISBN 978-80-274-1425-3 (webová kniha)  
-V MKP 2. elektronické vydání z 10. 10. 2022.
+V MKP 2. elektronické vydání z 11. 10. 2022.
 
 ***
 
